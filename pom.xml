@@ -34,7 +34,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-		<!-- servlet dependencies-->
+		<!-- servlet dependency-->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
